@@ -5,6 +5,12 @@ title: Projects
 
 # Projects
 
+### 📊 Data Analytics Projects
+- Store inventory flow analysis
+- 'Excess stock' investigation
+- Procurement planning to reduce 'cash blocked' on excess stock.
+[View Repository](https://github.com/sthodeme/data-analytics-projects)
+
 ### 🖼 Image Classification with CNN
 - Built a CNN model for image classification
 - Focus on data preprocessing & evaluation
